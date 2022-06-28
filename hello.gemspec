@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Fumiya Nakamura']
   s.email       = 'nfphys@gmail.com'
   s.files       = ['lib/hello.rb']
-  s.homepage    = 'https://github.com/nfphys/stamp_app_on_terminal'
+  s.homepage    = 'https://github.com/nfphys/hello'
   s.license     = 'MIT'
 end
