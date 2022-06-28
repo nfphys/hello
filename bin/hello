@@ -2,4 +2,10 @@
 
 require_relative '../lib/hello.rb'
 
+if ARGV.size > 1
+  puts "Too many arguments"
+  return 
+end
+
 puts hello
+puts ARGV[0] if ARGV[0]
