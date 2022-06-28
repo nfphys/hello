@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'hello'
   s.version     = '0.0.0'
-  s.executables << 'stamp'
+  s.executables << 'hello'
   s.summary     = 'Hello!'
   s.description = 'Hello world'
   s.authors     = ['Fumiya Nakamura']
