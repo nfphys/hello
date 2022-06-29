@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["object","hello()"],"longSearchIndex":["object","object#hello()"],"info":[["Object","","Object.html","",""],["hello","Object","Object.html#method-i-hello","(something)","<p>Say hello to something\n<p>Example: \n\n<pre>&gt;&gt; hello(&#39;world&#39;)\n=&gt; Hello world</pre>\n"]]}}
