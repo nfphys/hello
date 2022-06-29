@@ -5,6 +5,7 @@
 #   => Hello world
 # Arguments:
 #   something: (String)
+
 def hello(something)
   "Hello #{something}"
 end
